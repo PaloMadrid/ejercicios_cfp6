@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aejercicio05/1.0.0": {
+        "runtime": {
+          "Aejercicio05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aejercicio05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

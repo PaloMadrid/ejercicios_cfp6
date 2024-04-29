@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C02bibliotecaFunciones/1.0.0": {
+        "runtime": {
+          "C02bibliotecaFunciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C02bibliotecaFunciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

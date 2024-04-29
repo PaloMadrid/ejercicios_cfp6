@@ -1,0 +1,14 @@
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\bin\Debug\net8.0\Aejercicio06.exe
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\bin\Debug\net8.0\Aejercicio06.deps.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\bin\Debug\net8.0\Aejercicio06.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\bin\Debug\net8.0\Aejercicio06.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\bin\Debug\net8.0\Aejercicio06.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\refint\Aejercicio06.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\Aejercicio06.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\ejercicio06\obj\Debug\net8.0\ref\Aejercicio06.dll

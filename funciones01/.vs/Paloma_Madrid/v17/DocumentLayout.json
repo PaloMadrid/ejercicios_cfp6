@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB740A1-C081-40DB-A20A-5AB8437EFCC8}|Dvectores04\\Dvectores04.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\dvectores04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB740A1-C081-40DB-A20A-5AB8437EFCC8}|Dvectores04\\Dvectores04.csproj|solutionrelative:dvectores04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5442EEB3-1323-4B3C-9351-9CBE91CDAF78}|2string02\\Bstring02.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\2string02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5442EEB3-1323-4B3C-9351-9CBE91CDAF78}|2string02\\Bstring02.csproj|solutionrelative:2string02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB49EEB0-7B22-4E77-8EFA-B22BD652AC5F}|funciones01\\C01funciones.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\funciones01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB49EEB0-7B22-4E77-8EFA-B22BD652AC5F}|funciones01\\C01funciones.csproj|solutionrelative:funciones01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01900FFC-971B-4635-BFF7-A963F4275314}|2string01\\Bstring01.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\2string01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01900FFC-971B-4635-BFF7-A963F4275314}|2string01\\Bstring01.csproj|solutionrelative:2string01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10FE87-7F36-41B3-8D72-5831D268B0DB}|ejercicio09\\Aejercicio09.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10FE87-7F36-41B3-8D72-5831D268B0DB}|ejercicio09\\Aejercicio09.csproj|solutionrelative:ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62BC50D-A314-419E-8361-EA53DAAB5B2F}|3_02bibliotecaFunciones\\C02bibliotecaFunciones.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\funciones01\\3_02bibliotecafunciones\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62BC50D-A314-419E-8361-EA53DAAB5B2F}|3_02bibliotecaFunciones\\C02bibliotecaFunciones.csproj|solutionrelative:3_02bibliotecafunciones\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\ejercicio09\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio09\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\ejercicio09\\Program.cs",
+              "RelativeToolTip": "ejercicio09\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwFoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:15:36.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "numero.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_02bibliotecaFunciones\\numero.cs",
+              "RelativeDocumentMoniker": "3_02bibliotecaFunciones\\numero.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_02bibliotecaFunciones\\numero.cs",
+              "RelativeToolTip": "3_02bibliotecaFunciones\\numero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:43:17.853Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\Dvectores04\\Program.cs",
+              "RelativeDocumentMoniker": "Dvectores04\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\Dvectores04\\Program.cs",
+              "RelativeToolTip": "Dvectores04\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:32:54.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\2string02\\Program.cs",
+              "RelativeDocumentMoniker": "2string02\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\2string02\\Program.cs",
+              "RelativeToolTip": "2string02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:49:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\funciones01\\Program.cs",
+              "RelativeDocumentMoniker": "funciones01\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\funciones01\\Program.cs",
+              "RelativeToolTip": "funciones01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:45:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\2string01\\Program.cs",
+              "RelativeDocumentMoniker": "2string01\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\2string01\\Program.cs",
+              "RelativeToolTip": "2string01\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:45:30.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

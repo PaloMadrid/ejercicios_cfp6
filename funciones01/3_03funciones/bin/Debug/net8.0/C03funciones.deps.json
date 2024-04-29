@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C03funciones/1.0.0": {
+        "dependencies": {
+          "C03bibliotecaFunciones": "1.0.0"
+        },
+        "runtime": {
+          "C03funciones.dll": {}
+        }
+      },
+      "C03bibliotecaFunciones/1.0.0": {
+        "runtime": {
+          "C03bibliotecaFunciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C03funciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C03bibliotecaFunciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

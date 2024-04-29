@@ -1,0 +1,11 @@
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\bin\Debug\net8.0\C03bibliotecaFunciones.deps.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\bin\Debug\net8.0\C03bibliotecaFunciones.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\bin\Debug\net8.0\C03bibliotecaFunciones.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\refint\C03bibliotecaFunciones.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\C03bibliotecaFunciones.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\3_03bibliotecaFunciones\obj\Debug\net8.0\ref\C03bibliotecaFunciones.dll

@@ -1,0 +1,14 @@
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\bin\Debug\net8.0\Bstring02.exe
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\bin\Debug\net8.0\Bstring02.deps.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\bin\Debug\net8.0\Bstring02.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\bin\Debug\net8.0\Bstring02.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\bin\Debug\net8.0\Bstring02.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\refint\Bstring02.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\Bstring02.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\2string02\obj\Debug\net8.0\ref\Bstring02.dll

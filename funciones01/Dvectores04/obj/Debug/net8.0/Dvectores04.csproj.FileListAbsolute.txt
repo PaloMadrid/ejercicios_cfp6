@@ -1,0 +1,14 @@
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\bin\Debug\net8.0\Dvectores04.exe
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\bin\Debug\net8.0\Dvectores04.deps.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\bin\Debug\net8.0\Dvectores04.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\bin\Debug\net8.0\Dvectores04.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\bin\Debug\net8.0\Dvectores04.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\refint\Dvectores04.dll
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.pdb
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\Dvectores04.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6V2\funciones01\Dvectores04\obj\Debug\net8.0\ref\Dvectores04.dll
