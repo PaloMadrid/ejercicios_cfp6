@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeo_lapiceras/1.0.0": {
+        "dependencies": {
+          "mis_clases": "1.0.0"
+        },
+        "runtime": {
+          "testeo_lapiceras.dll": {}
+        }
+      },
+      "mis_clases/1.0.0": {
+        "runtime": {
+          "mis_clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeo_lapiceras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mis_clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

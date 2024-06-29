@@ -1,0 +1,12 @@
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\bin\Debug\net8.0\LibreriaEmpleados.deps.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\bin\Debug\net8.0\LibreriaEmpleados.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\bin\Debug\net8.0\LibreriaEmpleados.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.sourcelink.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\refint\LibreriaEmpleados.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\LibreriaEmpleados.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\LibreriaEmpleados\obj\Debug\net8.0\ref\LibreriaEmpleados.dll

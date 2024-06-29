@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\ejercicio04\\Aejercicio04.csproj",
+      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\ejercicio04\\Aejercicio04.csproj",
       "projectName": "Aejercicio04",
-      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\ejercicio04\\Aejercicio04.csproj",
+      "projectPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\ejercicio04\\Aejercicio04.csproj",
       "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\ejercicio04\\obj\\",
+      "outputPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\ejercicio04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",

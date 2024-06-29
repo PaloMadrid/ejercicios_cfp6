@@ -1,0 +1,12 @@
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\bin\Debug\net8.0\Libreria_vehiculos.deps.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\bin\Debug\net8.0\Libreria_vehiculos.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\bin\Debug\net8.0\Libreria_vehiculos.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.sourcelink.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\refint\Libreria_vehiculos.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\Libreria_vehiculos.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Libreria_vehiculos\obj\Debug\net8.0\ref\Libreria_vehiculos.dll

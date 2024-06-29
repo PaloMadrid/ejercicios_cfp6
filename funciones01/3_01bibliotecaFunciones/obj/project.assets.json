@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_01bibliotecaFunciones\\C01bibliotecaFunciones.csproj",
+      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_01bibliotecaFunciones\\C01bibliotecaFunciones.csproj",
       "projectName": "C01bibliotecaFunciones",
-      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_01bibliotecaFunciones\\C01bibliotecaFunciones.csproj",
+      "projectPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_01bibliotecaFunciones\\C01bibliotecaFunciones.csproj",
       "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_01bibliotecaFunciones\\obj\\",
+      "outputPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_01bibliotecaFunciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",

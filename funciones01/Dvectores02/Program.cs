@@ -7,28 +7,23 @@ namespace Dvectores02
         static void Main(string[] args)
         {
             //Cargar un vector de enteros de 5 elementos, sumar los valores y mostrarlo.
+            int suma = 0;
 
             int[] vectorEnteros = new int[5];
-            int acumulador = 0;
 
             for (int i = 0; i < vectorEnteros.Length; i++)
             {
                 Console.WriteLine($"ingrese el {i + 1}° numero: ");
                 vectorEnteros[i] = int.Parse(Console.ReadLine());
-                acumulador += vectorEnteros[i];
             }
-            
-            Console.Write($"suma: {acumulador}\n");
 
-            for (int i = 0; i < vectorEnteros.Length; i++)
+            foreach (int i in vectorEnteros)
             {
-                Console.Write(vectorEnteros[i]);
-
-                if (i < vectorEnteros.Length - 1)
-                {
-                    Console.Write(" | ");
-                }
+                suma += i;
             }
+
+            Console.WriteLine($"la suma es = {suma}");
+
         }
     }
 }

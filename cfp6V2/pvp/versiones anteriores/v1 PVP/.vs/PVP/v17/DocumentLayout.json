@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\PVP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1989305-7191-4F59-A374-F0FCFE4F4B2C}|PVP\\PVP.csproj|c:\\users\\plumi\\desktop\\pvp\\pvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1989305-7191-4F59-A374-F0FCFE4F4B2C}|PVP\\PVP.csproj|solutionrelative:pvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF42D1-7B69-4B6A-9F08-86D4D9236632}|Personaje\\Libreria_Personaje.csproj|C:\\Users\\Plumi\\Desktop\\PVP\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF42D1-7B69-4B6A-9F08-86D4D9236632}|Personaje\\Libreria_Personaje.csproj|solutionrelative:personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF42D1-7B69-4B6A-9F08-86D4D9236632}|Personaje\\Personaje.csproj|C:\\Users\\Plumi\\Desktop\\PVP\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF42D1-7B69-4B6A-9F08-86D4D9236632}|Personaje\\Personaje.csproj|solutionrelative:personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\PVP\\Personaje\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje\\Personaje.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\PVP\\Personaje\\Personaje.cs",
+              "RelativeToolTip": "Personaje\\Personaje.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwNEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:19:43.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\PVP\\Personaje\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje\\Personaje.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\PVP\\Personaje\\Personaje.cs",
+              "RelativeToolTip": "Personaje\\Personaje.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwNEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:12:07.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\PVP\\PVP\\Program.cs",
+              "RelativeDocumentMoniker": "PVP\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\PVP\\PVP\\Program.cs",
+              "RelativeToolTip": "PVP\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:10:54.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

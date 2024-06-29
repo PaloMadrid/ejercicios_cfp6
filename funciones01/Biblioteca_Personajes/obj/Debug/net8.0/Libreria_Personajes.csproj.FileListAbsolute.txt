@@ -1,0 +1,12 @@
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.sourcelink.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\bin\Debug\net8.0\Libreria_Personajes.deps.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\bin\Debug\net8.0\Libreria_Personajes.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\bin\Debug\net8.0\Libreria_Personajes.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\refint\Libreria_Personajes.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\Libreria_Personajes.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\funciones01\Biblioteca_Personajes\obj\Debug\net8.0\ref\Libreria_Personajes.dll

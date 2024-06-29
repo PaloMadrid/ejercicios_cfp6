@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Testeo_PVP/1.0.0": {
+        "dependencies": {
+          "Libreria_Personajes": "1.0.0"
+        },
+        "runtime": {
+          "Testeo_PVP.dll": {}
+        }
+      },
+      "Libreria_Personajes/1.0.0": {
+        "runtime": {
+          "Libreria_Personajes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo_PVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria_Personajes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

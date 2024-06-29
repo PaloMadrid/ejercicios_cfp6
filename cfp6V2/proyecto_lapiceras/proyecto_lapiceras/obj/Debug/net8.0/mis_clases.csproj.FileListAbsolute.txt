@@ -1,0 +1,11 @@
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.deps.json
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.dll
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.pdb
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.dll
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\refint\mis_clases.dll
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.pdb
+C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\ref\mis_clases.dll

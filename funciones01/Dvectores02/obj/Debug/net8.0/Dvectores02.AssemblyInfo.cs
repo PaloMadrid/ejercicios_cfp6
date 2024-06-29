@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dvectores02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c98d3c2ec729e7918fa10444756ec35babe78620")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dvectores02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dvectores02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

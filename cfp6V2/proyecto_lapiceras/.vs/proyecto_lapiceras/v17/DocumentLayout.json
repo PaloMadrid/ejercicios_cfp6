@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3483F9DB-D34A-4E17-BB13-160B3BD6DDAE}|testeo_lapiceras\\testeo_lapiceras.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3483F9DB-D34A-4E17-BB13-160B3BD6DDAE}|testeo_lapiceras\\testeo_lapiceras.csproj|solutionrelative:testeo_lapiceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|solutionrelative:proyecto_lapiceras\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|solutionrelative:proyecto_lapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEscribir.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.Designer.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.Designer.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.Designer.cs",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:07:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEscribir.resx",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.resx",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.resx",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.resx",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-29T19:07:04.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEscribir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs [Design]",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:10:37.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEscribir.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:11:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Funcion.cs",
+              "RelativeDocumentMoniker": "proyecto_lapiceras\\Funcion.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Funcion.cs",
+              "RelativeToolTip": "proyecto_lapiceras\\Funcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:59:14.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\Program.cs",
+              "RelativeDocumentMoniker": "testeo_lapiceras\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\Program.cs",
+              "RelativeToolTip": "testeo_lapiceras\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:22:41.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:07:04.635Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f0063b28-7d0f-4ab9-94cd-d190223277a8",
+        "Display": 0,
+        "X": 1188,
+        "Y": 230,
+        "Width": 1292,
+        "Height": 720,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formCrear.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\formCrear.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeToolTip": "FormPrincipal\\formCrear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:06:32.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lapicera.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
+              "RelativeDocumentMoniker": "proyecto_lapiceras\\Lapicera.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
+              "RelativeToolTip": "proyecto_lapiceras\\Lapicera.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:09:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:10:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formCrear.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\formCrear.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\formCrear.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:06:25.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

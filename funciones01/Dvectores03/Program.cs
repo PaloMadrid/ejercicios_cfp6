@@ -19,18 +19,10 @@
 
             promedio=acumulador/vectorEnteros.Length;
 
-            Console.Write($"suma: {acumulador}\n");
-            Console.Write($"promedio: {promedio}\n");
+            Console.WriteLine($"suma: {acumulador}");
+            Console.WriteLine($"promedio: {promedio}");
 
-            for (int i = 0; i < vectorEnteros.Length; i++)
-            {
-                Console.Write(vectorEnteros[i]);
-
-                if (i < vectorEnteros.Length - 1)
-                {
-                    Console.Write(" | ");
-                }
-            }
+            
         }
     }
 }

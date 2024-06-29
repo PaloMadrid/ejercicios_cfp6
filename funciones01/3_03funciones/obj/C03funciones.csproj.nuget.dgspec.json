@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03funciones\\C03funciones.csproj": {}
+    "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03funciones\\C03funciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj": {
+    "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj",
+        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj",
         "projectName": "C03bibliotecaFunciones",
-        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj",
+        "projectPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj",
         "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\obj\\",
+        "outputPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03funciones\\C03funciones.csproj": {
+    "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03funciones\\C03funciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03funciones\\C03funciones.csproj",
+        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03funciones\\C03funciones.csproj",
         "projectName": "C03funciones",
-        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03funciones\\C03funciones.csproj",
+        "projectPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03funciones\\C03funciones.csproj",
         "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03funciones\\obj\\",
+        "outputPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03funciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj": {
-                "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj"
+              "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj": {
+                "projectPath": "C:\\Users\\Plumi\\Desktop\\ejercicios_cfp6\\funciones01\\3_03bibliotecaFunciones\\C03bibliotecaFunciones.csproj"
               }
             }
           }

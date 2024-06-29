@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Biblioteca_Funciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Biblioteca_Funciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca_Funciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca_Funciones/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca_Funciones/Biblioteca_Funciones.csproj",
+      "msbuildProject": "../Biblioteca_Funciones/Biblioteca_Funciones.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Biblioteca_Funciones >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Plumi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj",
+      "projectName": "FormEstudiantes",
+      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj",
+      "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj": {
+              "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

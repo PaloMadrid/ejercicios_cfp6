@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\testeos_generales\\libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\testeos_generales\\libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\testeos_generales\\libreriavehiculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552C628-7850-40FA-9D70-1492573A3BB7}|libreriaVehiculos\\libreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCDEB3C-7882-41EF-B14C-47ECC1E0D7E3}|testeos_generales\\testeos_generales.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\testeos_generales\\testeos_generales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCDEB3C-7882-41EF-B14C-47ECC1E0D7E3}|testeos_generales\\testeos_generales.csproj|solutionrelative:testeos_generales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Moto.cs",
+              "RelativeDocumentMoniker": "libreriaVehiculos\\Moto.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Moto.cs",
+              "RelativeToolTip": "libreriaVehiculos\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:50:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "libreriaVehiculos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Vehiculo.cs",
+              "RelativeToolTip": "libreriaVehiculos\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:50:34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Auto.cs",
+              "RelativeDocumentMoniker": "libreriaVehiculos\\Auto.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\libreriaVehiculos\\Auto.cs",
+              "RelativeToolTip": "libreriaVehiculos\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:50:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\testeos_generales\\Program.cs",
+              "RelativeDocumentMoniker": "testeos_generales\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\testeos_generales\\testeos_generales\\Program.cs",
+              "RelativeToolTip": "testeos_generales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:57:51.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

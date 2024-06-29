@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PVP/1.0.0": {
+        "dependencies": {
+          "Libreria_Personaje": "1.0.0"
+        },
+        "runtime": {
+          "PVP.dll": {}
+        }
+      },
+      "Libreria_Personaje/1.0.0": {
+        "runtime": {
+          "Libreria_Personaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria_Personaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

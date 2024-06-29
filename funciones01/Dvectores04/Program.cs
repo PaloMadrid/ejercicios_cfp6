@@ -25,35 +25,82 @@ namespace Dvectores04
 
             opcion = Console.ReadLine();
 
+            char[] vectorCaracter=null;
 
             switch (opcion)
             {
                 case "1":
 
-                    Vector[i] = PedirVector("ingrese una palabra para convertir en array");
-                    for (int i = 0; i < .Length; i++)
-                    {
-                        Console.Write(PedirVector("ingrese una palabra para convertir en array")[i]);
-
-                        if (i < PedirVector("ingrese una palabra para convertir en array").Length - 1)
-                        {
-                            Console.WriteLine($"{PedirVector("ingrese una palabra para convertir en array")} - ");
-                        }
-                    }
+                    Console.Write("Ingrese una cadena de caracteres: ");
+                    string cadena = Console.ReadLine();
+                    vectorCaracter = cadena.ToCharArray();
+                    break;
 
                 case "2":
-                    //Console.Write($"el vector ingresado es: { PedirVector("ingrese el vector que quiere ordenar: ")}");
-
-                    //for (int i = 0; int i < length; int i++)
-                    //{
-
-                    //}
+                    if (vectorCaracter != null)
+                    {
+                        Array.Sort(vectorCaracter);
+                        string ordenado = new string(vectorCaracter);
+                        Console.WriteLine($"Vector ordenado: {ordenado}" );
+                    }
+                    else
+                    {
+                        Console.WriteLine("Primero debe cargar un array de caracteres.");
+                    }
                     break;
                 case "3":
+                    if (vectorCaracter != null)
+                    {
+                        int contadorA = 0;
+                        int contadorE = 0;
+                        int contadorI = 0;
+                        int contadorO = 0;
+                        int contadorU = 0;
 
-                    break;
+                        foreach (char c in vectorCaracter)
+                        {
+                            if (EsVocal)
+                            {
+                                switch (char.ToLower(c))
+                                {
+                                    case 'a':
+                                        contadorA++;
+                                        break;
+                                    case 'e':
+                                        contadorE++;
+                                        break;
+                                    case 'i':
+                                        contadorI++;
+                                        break;
+                                    case 'o':
+                                        contadorO++;
+                                        break;
+                                    case 'u':
+                                        contadorU++;
+                                        break;
+                                }
+                            }
+                            
+                        }
+                        Console.WriteLine("Cantidad de 'a': " + contadorA);
+                        Console.WriteLine("Cantidad de 'e': " + contadorE);
+                        Console.WriteLine("Cantidad de 'i': " + contadorI);
+                        Console.WriteLine("Cantidad de 'o': " + contadorO);
+                        Console.WriteLine("Cantidad de 'u': " + contadorU);
+                    }
+                        break;
                 case "4":
-
+                    if (vectorCaracter != null)
+                    {
+                        for (int i = 0; i < vectorCaracter.Length; i++)
+                        {
+                            if (!EsVocal(vectorCaracter[i]) && char.IsLetter(vectorCaracter[i]))
+                            {
+                                vectorCaracter[i] = '*';
+                            }
+                        }
+                        Console.WriteLine("Consonantes reemplazadas por '*': " + new string(vectorCaracter));
+                    }
                     break;
 
             }
@@ -74,6 +121,10 @@ namespace Dvectores04
             }
             
         }
-
+        static bool EsVocal(char c)
+        {
+            char[] vocales = { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+            return vocales.Contains(c);
+        }
     }
 }

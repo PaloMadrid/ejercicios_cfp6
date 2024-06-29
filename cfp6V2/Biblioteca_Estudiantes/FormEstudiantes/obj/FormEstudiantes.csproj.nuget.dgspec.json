@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj",
+        "projectName": "Biblioteca_Funciones",
+        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj",
+        "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj",
+        "projectName": "FormEstudiantes",
+        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormEstudiantes.csproj",
+        "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj": {
+                "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Biblioteca_Funciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
